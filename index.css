@@ -67,6 +67,7 @@ input[type=number] {
     background: #daecfb;;
     border: none;
     border-radius: 4px;
+    outline: none;
 }
 
 .input-box #btn {
