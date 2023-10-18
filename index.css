@@ -80,3 +80,28 @@ input[type=number] {
     cursor: pointer;
 }
 
+
+@media (max-width:991px){
+
+    main {
+        max-width: 90%;
+    }
+
+    section h1 {
+        font-size: 30px;
+    }
+
+    section p,
+    .input-box label {
+        font-size: 17px;
+    }
+
+}
+
+@media(max-width:400px){
+
+    input[type=text],
+    input[type=number] {
+        width: 100%;
+    }
+}
