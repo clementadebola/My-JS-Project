@@ -80,6 +80,9 @@ input[type=number] {
     cursor: pointer;
 }
 
+#result {
+    color: var(--secondary-color);
+}
 
 @media (max-width:991px){
 
